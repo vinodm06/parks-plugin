@@ -34,4 +34,4 @@ If you prefer to install the plugin manually:
 2. To display the parks on a page, use the following shortcode:
    ```text
    [city_parks]
-# parks-plugin
+
